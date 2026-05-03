@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\walee\\source\\repos\\DSA Assignment 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A46A15F8-B75B-4E64-870B-DC9391219E51}|DSA Assignment 1\\DSA Assignment 1.vcxproj|C:\\Users\\walee\\source\\repos\\DSA Assignment 1\\DSA Assignment 1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A46A15F8-B75B-4E64-870B-DC9391219E51}|DSA Assignment 1\\DSA Assignment 1.vcxproj|solutionrelative:DSA Assignment 1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46A15F8-B75B-4E64-870B-DC9391219E51}|DSA Assignment 1\\DSA Assignment 1.vcxproj|C:\\Users\\walee\\source\\repos\\DSA Assignment 1\\DSA Assignment 1\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A46A15F8-B75B-4E64-870B-DC9391219E51}|DSA Assignment 1\\DSA Assignment 1.vcxproj|solutionrelative:DSA Assignment 1\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46A15F8-B75B-4E64-870B-DC9391219E51}|DSA Assignment 1\\DSA Assignment 1.vcxproj|C:\\Users\\walee\\source\\repos\\DSA Assignment 1\\DSA Assignment 1\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A46A15F8-B75B-4E64-870B-DC9391219E51}|DSA Assignment 1\\DSA Assignment 1.vcxproj|solutionrelative:DSA Assignment 1\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\walee\\source\\repos\\DSA Assignment 1\\DSA Assignment 1\\Main.cpp",
+              "RelativeDocumentMoniker": "DSA Assignment 1\\Main.cpp",
+              "ToolTip": "C:\\Users\\walee\\source\\repos\\DSA Assignment 1\\DSA Assignment 1\\Main.cpp",
+              "RelativeToolTip": "DSA Assignment 1\\Main.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-03T11:31:46.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stack.h",
+              "DocumentMoniker": "C:\\Users\\walee\\source\\repos\\DSA Assignment 1\\DSA Assignment 1\\stack.h",
+              "RelativeDocumentMoniker": "DSA Assignment 1\\stack.h",
+              "ToolTip": "C:\\Users\\walee\\source\\repos\\DSA Assignment 1\\DSA Assignment 1\\stack.h",
+              "RelativeToolTip": "DSA Assignment 1\\stack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-03T11:31:41.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stack.cpp",
+              "DocumentMoniker": "C:\\Users\\walee\\source\\repos\\DSA Assignment 1\\DSA Assignment 1\\stack.cpp",
+              "RelativeDocumentMoniker": "DSA Assignment 1\\stack.cpp",
+              "ToolTip": "C:\\Users\\walee\\source\\repos\\DSA Assignment 1\\DSA Assignment 1\\stack.cpp",
+              "RelativeToolTip": "DSA Assignment 1\\stack.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-03T11:31:36.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
