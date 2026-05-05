@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="DSA Assignment 1/DSA Assignment 1.vcxproj" />
-</Solution>
